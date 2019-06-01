@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a17b09a-ca67-44a6-8ec3-54b584950688" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/css/materialize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/css/materialize.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/firebase-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/Freelancer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/clouds_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/clouds_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/eventbeep.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/lpu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/img/og_cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/js/materialize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/js/particles.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/js/particles.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/Public/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mywebsite/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/app/models/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/app/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/config/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/config/database.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/config/passport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/views/edit.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/views/login.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/views/partials/head.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/views/profile.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coutloot/views/signup.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../git.txt.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/config/passport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/controllers/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/controllers/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/controllers/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/controllers/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/models/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/default/_default.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/default/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/flatly/_flatly.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/flatly/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_collapse.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_labels-and-progress-bars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_misc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_sliders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_social-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_tabs-navs-pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_tooltips.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/mixins/_inputs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/mixins/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/mixins/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/mixins/_tabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/mixins/_transparency.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/gsdk/gsdk/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/modern/_modern.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/css/themes/modern/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/js/lib/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/public/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/test/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/test/models.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/account/forgot.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/account/login.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/account/profile.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/account/reset.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/account/signup.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/aviary.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/clockwork.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/facebook.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/foursquare.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/github.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/google-maps.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/instagram.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/lastfm.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/linkedin.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/lob.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/nyt.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/paypal.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/pinterest.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/scraping.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/steam.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/stripe.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/tumblr.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/twilio.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/twitter.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/api/upload.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/contact.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/home.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/partials/flash.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/partials/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../innovationscity/views/partials/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/css/materialize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/favicon.ico?v=2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/img/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/img/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/img/clouds_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/img/clouds_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/img/eventbeep.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/img/lpu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/img/me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/js/materialize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/js/particles.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nikhilsingh.tech/resume.pdf" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1171">
+              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/model/board.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/android/build.gradle" />
+        <option value="$PROJECT_DIR$/android/app/build.gradle" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/model/board.dart" />
+        <option value="$PROJECT_DIR$/lib/main.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="52" />
+    <option name="y" value="23" />
+    <option name="width" value="1587" />
+    <option name="height" value="883" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutterGlobant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutterGlobant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutterGlobant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutterGlobant" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a17b09a-ca67-44a6-8ec3-54b584950688" name="Default" comment="" />
+      <created>1525728072972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525728072972</updated>
+      <workItem from="1559381666012" duration="1283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1283000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13090129" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Captures" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="UI Designer" order="8" />
+      <window_info id="simpleUML" order="9" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32901555" />
+      <window_info anchor="bottom" id="Android Monitor" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32994923" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32901555" />
+      <window_info anchor="bottom" id="Android Profiler" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Flutter Performance" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Android Model" order="6" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="Device File Explorer" order="11" side_tool="true" />
+      <window_info anchor="right" id="Flutter Outline" order="12" />
+      <window_info anchor="right" id="Database" order="13" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VaadinDesigner.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="designer.settings">
+    <option name="autodetectServerAddress" value="true" />
+    <option name="serverIp" value="localhost" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/android/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/google-services.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.4.6/lib/src/event.dart" />
+    <entry file="file://$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="366" column="24" selection-start-line="366" selection-start-column="24" selection-end-line="366" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter/packages/flutter/lib/src/widgets/form.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="153" column="6" selection-start-line="153" selection-start-column="2" selection-end-line="153" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1171">
+          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/board.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.jfoenix:jfoenix:1.7.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>firebase_setup_android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
