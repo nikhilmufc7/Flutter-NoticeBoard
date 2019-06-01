@@ -1,8 +1,7 @@
-# firebase_setup
+# Flutter Realtime College Board
 
-A new Flutter project.
+Using Firebase Realtime Database
 
-## Getting Started
+A basic app built during in 4 hours during the International Flutter Hack Day at Globant India. 
+<img src="flutterhack.png"
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
